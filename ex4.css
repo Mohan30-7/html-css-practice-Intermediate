@@ -1,0 +1,230 @@
+* { 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.ct1{
+    display: flex;
+    justify-content: space-around;
+}
+.ct1 a{
+    text-decoration: none;
+    margin: 23px;
+    color: black;
+}
+.ct1 div{
+    margin: 20px;
+}
+.ct2{
+    margin:200px 65px;
+}
+.ct2 img{
+    width: 1270px;
+    height: 300px;
+    position: relative;
+    left: -67px;
+    margin-top: -100px;
+}
+.ct22{
+    position: relative;
+    top:-280px;
+}
+.ct2 button{
+    border-radius: 15px;
+    padding: 10px 20px;
+    background-color: green;
+    color: whitesmoke;
+    border: none;
+    margin: 13px 0;
+    position: relative;
+    top:10px;
+    left:-5px;
+}
+.ct3{
+      margin:200px 0;
+      margin-left: 650px;
+    
+}
+.ct3 img{
+    position: relative;
+    left:-500px;
+      box-shadow: 10px 10px 10px grey;
+}
+.ct3 div{
+    position: relative;
+    top:-230px;
+    left:-130px;
+      box-shadow: 10px 10px 10px grey;
+      padding:30px 150px;
+}
+.ct4 a{
+    text-decoration: none;
+    margin: 7px;
+    color: black;
+}
+.ct4 div{
+    margin: 20px 380px;
+}
+.ct4 a:hover{
+      text-decoration-line:underline;
+    text-decoration-thickness: 5px;
+    text-decoration-color: green;
+}
+.ct5{
+    display: flex;
+    justify-content: space-around;
+    margin-top:50px;
+}
+.ct5 img{
+ height: 150px;
+ width:200px;
+}
+.ct5 p{
+     margin-top:5px;
+}
+.ct5 button{
+    border-radius: 10px;
+    background-color: wheat;
+    color: black;
+    margin: 10px 0;
+    padding-right: 18px;
+    position: relative;
+    top:10px;
+    left: -5px;
+}
+.ct511{
+    box-shadow: 13px 13px 10px grey;
+}
+.ct6{
+    margin-top: 150px;
+}
+.ct7{
+    display: flex;
+    justify-content: space-around;
+}
+.ct7 img{
+    height:300px;
+    width:1935px;
+    position: relative;
+    top:-580px;
+
+}
+.ct7 div{
+    position: relative;
+    top:-580px;
+    left: 500px;
+    z-index: 3;
+}
+.ct71 img{
+    height:70px;
+    width: 100px;
+    margin: 20px;;
+}
+div.ct72{
+    display: flex;
+    justify-content: space-around;
+    position:relative;
+    top:-730px;
+    width:500px;
+    left: 410px;
+    padding: 20px;
+
+}
+.ct8 img{
+    height: 300px;
+    width:500px;
+}
+.ct8{
+    display: flex;
+    justify-content: space-around;
+    margin: 70px;
+    padding: 30px;
+}
+.ct81{
+    background-color: aquamarine;
+}
+.ct81 h2{
+    padding-top: 20px;
+}
+.ct9{
+    display: flex;
+    justify-content: space-around;
+}
+.ct92 p,button{
+z-index:3;
+position:relative;
+top: -270px;
+left: 40px;
+}
+.ct91 p,button{
+    z-index: 3;
+    position:relative;
+top: -270px;
+left: 40px;
+}
+.ct91 img{
+    height: 250px;
+    width: 500px;
+    margin: 30px;
+}
+.ct92 img{
+    height: 250px;
+    width: 500px;
+    margin: 30px;
+}
+.ct10{
+    display: flex;
+    justify-content: space-around;
+    margin: 30px 10px; 
+}
+.ct10 img{
+    height: 100px;
+    width: 250px;
+    margin: 10px 5px;
+}
+.ct10 button{
+    position: relative;
+    top: 10px;
+    left:-5px;
+    border-radius: 15px;
+    background-color: aliceblue;
+    padding: 5px 10px;
+}
+.ct11{
+    display: flex;
+    justify-content: space-around;
+    margin-top:140px;
+    margin-left: 25px;
+}
+.ct12{
+    margin-top: 150px;
+
+}
+.ct13{
+    display: flex;
+    justify-content: space-around;
+}
+.ct13 button{
+ position: relative;
+ top:0;
+ left:-250px;
+ background-color: green;
+ color: whitesmoke;
+ border-radius: 15px;
+ padding: 10px 20px;
+}
+.ct14{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 150px;
+     background-color: aquamarine;
+     padding: 30px;
+}
+.ct14 li{
+    line-height: 2;
+}
+.ct15{
+    display: flex;
+    justify-content: space-around;
+    margin:20px;
+}

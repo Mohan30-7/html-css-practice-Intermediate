@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(245, 245, 245);
+    margin: 0;
+    padding: 20px;
+}
+.container {
+    width: 320px;
+    background-color: white;
+    padding: 30px;
+    margin: 50px auto;
+    border-radius: 10px;
+    text-align: center;
+}
+.continue {
+    color: rgb(68, 68, 68);
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+.input{
+    width: 93%;
+    padding: 10px;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.forgot-link {
+    text-decoration: none;
+    font-size: 12px;
+    color: rgb(26, 115, 232);
+    float: left;
+}
+.learn {
+    font-size: 12px;
+    color: rgb(85, 85, 85);
+    text-align: left;
+}
+.bottom-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+.create{
+    text-decoration: none;
+    color: rgb(26, 115, 232);
+    font-size: 14px;
+}
+.next{
+    background-color: rgb(26, 115, 232);
+    color: white;
+    border: none;
+    padding: 8px 20px;
+    font-size: 14px;
+    cursor: pointer;
+}
