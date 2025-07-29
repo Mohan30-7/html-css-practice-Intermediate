@@ -91,17 +91,21 @@ To run any exercise locally:
 📸 Sample Screenshots
 
 ✅ `ex1.html` & `ex1.css` — Innovative Website Landing Page:
+
 <img width="1920" height="838" alt="image" src="https://github.com/user-attachments/assets/ef9597d6-19a9-468f-bab3-273253d89350" />
 
 ✅ `ex2.html` & `ex2.css` — Web Design Landing Page:
+
 <img width="1920" height="999" alt="image" src="https://github.com/user-attachments/assets/61ea47f6-be37-450f-8223-e50a6b8253ad" />
 
 ✅ `ex3.html` & `ex3.css` — Organic Store Product Catalog:
+
 <img width="1920" height="999" alt="image" src="https://github.com/user-attachments/assets/ab337e5d-18a2-4984-a098-5d655f279ffe" />
 <img width="1920" height="997" alt="image" src="https://github.com/user-attachments/assets/54ee10d6-68d9-4fa0-8bf7-b20029469326" />
 <img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/ef23ad14-28ff-404c-9f32-c2d0be8d05d8" />
 
 ✅ `ex4.html` & `ex4.css` — Grocery Store Homepage:
+
 <img width="1920" height="984" alt="image" src="https://github.com/user-attachments/assets/0755706c-23fe-4258-b4a1-2ae9bde0427d" />
 <img width="1920" height="906" alt="image" src="https://github.com/user-attachments/assets/5a968245-f3a6-4931-83e9-8df298ef7716" />
 <img width="1920" height="995" alt="image" src="https://github.com/user-attachments/assets/9cdb2075-dde8-4188-a44f-13fad584cb1a" />
